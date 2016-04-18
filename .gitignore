@@ -1,4 +1,5 @@
 *.swp
-logs/
+log/
 .DS_Store
+*.pyc
 app.log
