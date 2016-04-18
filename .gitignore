@@ -1,0 +1,4 @@
+*.swp
+logs/
+.DS_Store
+app.log

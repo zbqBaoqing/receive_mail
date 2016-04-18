@@ -1,0 +1,18 @@
+[2016-03-11 15:30:07,655][140735151358720][INFO][mail.py][line:128] [func:__excute] [msg:Subject: =?UTF-8?B?W3Byb13ojrflj5bkuLvmnLppcA==?=
+MIME-Version: 1.0
+From: mailcommand@app.xiaomi.com
+To: zhangbaoqing@xiaomi.com
+Content-Type: text/html;charset=utf-8
+
+time: Fri Mar 11 15:30:07 2016</br>msg: 10.235.116.18</br></br></br></br>如有疑问，请及时联系运维权限平台管理员(zhangbaoqing)]
+[2016-03-11 15:30:07,676][140735151358720][INFO][mail.py][line:129] [func:__excute] [msg:/usr/sbin/sendmail -f  'mailcommand@app.xiaomi.com' 'zhangbaoqing@xiaomi.com' < /tmp/tmpgbuGjq]
+[2016-03-11 15:30:07,676][140735151358720][INFO][mail.py][line:130] [func:__excute] [msg:mail command exec result: ]
+[2016-03-11 15:30:07,752][140735151358720][INFO][mail.py][line:128] [func:__excute] [msg:Subject: =?UTF-8?B?W3Byb13ojrflj5bkuLvmnLrlkI0=?=
+MIME-Version: 1.0
+From: mailcommand@app.xiaomi.com
+To: zhangbaoqing@xiaomi.com
+Content-Type: text/html;charset=utf-8
+
+time: Fri Mar 11 15:30:07 2016</br>msg: zhangbaoqings-iMac.local</br></br></br></br>如有疑问，请及时联系运维权限平台管理员(zhangbaoqing)]
+[2016-03-11 15:30:07,752][140735151358720][INFO][mail.py][line:129] [func:__excute] [msg:/usr/sbin/sendmail -f  'mailcommand@app.xiaomi.com' 'zhangbaoqing@xiaomi.com' < /tmp/tmp3JnpIN]
+[2016-03-11 15:30:07,753][140735151358720][INFO][mail.py][line:130] [func:__excute] [msg:mail command exec result: ]

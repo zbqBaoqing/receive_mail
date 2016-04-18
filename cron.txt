@@ -1,0 +1,4 @@
+#DT:每1mins向163服务器请求资源
+*/1 * * * * flock -xn /tmp/xcache_launch.lock -c 'python ~/work/receive_mail/run.py'
+
+

@@ -1,0 +1,4 @@
+[2016-03-11 15:30:03,498][140735151358720][ERROR][run.py][line:35] [func:getMail] [msg:存在不支持的自定义格式的命令参数! [command: ['\xe8\xbf\x90\xe7\xbb\xb4\xe9\x83\xa8|\xe5\xbc\xa0\xe4\xbf\x9d\xe6\xb8\x85|Tel', ' 15210312367|QQ', ' 414095993']]]
+[2016-03-11 21:58:01,610][140735151358720][ERROR][run.py][line:35] [func:getMail] [msg:存在不支持的自定义格式的命令参数! [command: ['get\xef\xbc\x9aip']]]
+[2016-03-11 21:58:01,631][140735151358720][ERROR][run.py][line:35] [func:getMail] [msg:存在不支持的自定义格式的命令参数! [command: ['code', '122177<tel', '122177>']]]
+[2016-03-11 21:58:01,632][140735151358720][ERROR][run.py][line:35] [func:getMail] [msg:存在不支持的自定义格式的命令参数! [command: ['\xe5\x8f\x91\xe8\x87\xaa\xe6\x88\x91\xe7\x9a\x84\xe5\xb0\x8f\xe7\xb1\xb3\xe6\x89\x8b\xe6\x9c\xba']]]
